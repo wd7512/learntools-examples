@@ -1,0 +1,5 @@
+learntools
+jupyter
+numpy
+matplotlib
+pandas
